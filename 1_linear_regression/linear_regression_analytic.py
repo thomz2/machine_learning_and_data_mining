@@ -1,5 +1,6 @@
 import numpy as np
 
+# Ordinary Least Squares (Método dos Mínimos Quadrados)
 def analytic_linear_regression(X, y, debug=False):
     
     # np.c_ é usado para concatenar arrays nas colunas
